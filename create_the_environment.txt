@@ -1,0 +1,8 @@
+# USING CONDA WITH NVIDIA GPU
+
+conda create -n ML pytorch-cuda pybullet jupyter -c nvidia -c pytorch -c conda-forge
+
+
+# USING CONDA WITH NO NVIDIA GPU
+
+conda create -n ML pytorch pybullet jupyter -c pytorch -c conda-forge
