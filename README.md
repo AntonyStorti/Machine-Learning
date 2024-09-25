@@ -10,4 +10,4 @@ Progetto di "Reinforcement Learning" per insegnare ad un braccio robotico (simul
 
 # Datasets
 
-Visto il peso eccessivo per Github dei datasets, essi vanno scaricati dal link di MEGA presente nella relativa cartella.
+Visto il peso eccessivo per Github dei datasets: essi vanno scaricati dal link di MEGA presente nella relativa cartella.
